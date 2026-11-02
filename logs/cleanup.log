@@ -1,0 +1,32 @@
+[2026-11-02 13:56:57] Starting backup cleanup. Mode: --dry-run
+[2026-11-02 13:56:57] Retention period: 7 days
+[2026-11-02 13:56:57] No expired backups found.
+[2026-11-02 13:56:57] Expired backups found: 0
+[2026-11-02 13:56:57] Backups deleted: 0
+[2026-11-02 13:56:57] Cleanup process finished.
+[2026-11-02 13:57:08] Starting backup cleanup. Mode: --dry-run
+[2026-11-02 13:57:08] Retention period: 7 days
+[2026-11-02 13:57:08] No expired backups found.
+[2026-11-02 13:57:08] Expired backups found: 0
+[2026-11-02 13:57:08] Backups deleted: 0
+[2026-11-02 13:57:08] Cleanup process finished.
+[2026-11-02 13:58:10] Starting backup cleanup. Mode: --dry-run
+[2026-11-02 13:58:10] Retention period: 7 days
+[2026-11-02 13:58:10] Expired backup found: backup_lab_OLD_TEST.dump
+[2026-11-02 13:58:10] DRY RUN: Would delete backup and checksum.
+[2026-11-02 13:58:10] Expired backups found: 1
+[2026-11-02 13:58:10] Backups deleted: 0
+[2026-11-02 13:58:10] Cleanup process finished.
+[2026-11-02 13:58:18] Starting backup cleanup. Mode: --delete
+[2026-11-02 13:58:18] Retention period: 7 days
+[2026-11-02 13:58:18] Expired backup found: backup_lab_OLD_TEST.dump
+[2026-11-02 13:58:18] Deleted expired backup: backup_lab_OLD_TEST.dump
+[2026-11-02 13:58:18] Expired backups found: 1
+[2026-11-02 13:58:18] Backups deleted: 1
+[2026-11-02 13:58:18] Cleanup process finished.
+[2026-11-02 14:09:33] Starting backup cleanup. Mode: --dry-run
+[2026-11-02 14:09:33] Retention period: 7 days
+[2026-11-02 14:09:33] No expired backups found.
+[2026-11-02 14:09:34] Expired backups found: 0
+[2026-11-02 14:09:34] Backups deleted: 0
+[2026-11-02 14:09:34] Cleanup process finished.

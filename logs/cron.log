@@ -1,0 +1,7 @@
+[2026-11-02 14:10:30] Starting backup for database: backup_lab
+[2026-11-02 14:10:30] SUCCESS: Backup completed.
+[2026-11-02 14:10:30] Database: backup_lab
+[2026-11-02 14:10:30] Backup file: /home/janet_john/postgres-backup-recovery/backups/backup_lab_20261102_141030.dump
+[2026-11-02 14:10:30] Backup size: 4.0K
+[2026-11-02 14:10:30] Checksum: /home/janet_john/postgres-backup-recovery/backups/backup_lab_20261102_141030.dump.sha256
+[2026-11-02 14:10:30] Backup process finished.
